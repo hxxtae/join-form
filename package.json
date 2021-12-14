@@ -1,0 +1,28 @@
+{
+  "name": "join-form-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxxtae/join-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxxtae/join-form/issues"
+  },
+  "homepage": "https://github.com/hxxtae/join-form#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
